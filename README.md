@@ -1,11 +1,14 @@
-# webpageUI
+# README
+
+This repo consists of the subpages under my [personal webpage](https://ruoxining/github.io).
+
+As the scripts in webpage and OBvault repo cannot deal with `.html`s, this repo is built to place such subpages.
 
 
-目前的目录
+### Structure of personal website
 
-`ruoxining.github.io/webpageUI` 是交互 UI
-
-`ruoxining.github.io/webpageUI/portfolio` 是作品集
-
-
-年后有空再改
+- ruoxining.github.io
+    - OBvault               # the [blog](https://ruoxining.github.io/OBvault)
+    - subpages              # this repo
+        - interactUI        # the [interactive webpage](https://ruoxining.github.io/subpages/interactUI)
+        - portfolio         # the [portfolio](https://ruoxining.github.io/subpages/portfolio) 
